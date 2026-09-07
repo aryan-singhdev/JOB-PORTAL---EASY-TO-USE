@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+job_portal.db
+uploads/*
+!uploads/.gitkeep

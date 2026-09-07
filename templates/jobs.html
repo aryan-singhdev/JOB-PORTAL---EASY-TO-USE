@@ -1,0 +1,74 @@
+{% extends "base.html" %}
+{% block title %}Matched Jobs - Job Portal{% endblock %}
+{% block content %}
+
+<div class="d-flex justify-content-between align-items-center mb-3 flex-wrap gap-2">
+  <div>
+    <h3 class="mb-1">Jobs Matched To You</h3>
+    <p class="text-muted mb-0">Aggregated from LinkedIn, Indeed, Naukri, Glassdoor &amp; Monster — ranked by skill match.</p>
+  </div>
+</div>
+
+<div class="mb-4">
+  <span class="me-2 small text-muted">Filter by platform:</span>
+  <a href="{{ url_for('jobs') }}" class="btn btn-sm {{ 'btn-primary' if not active_platform else 'btn-outline-secondary' }} me-1 mb-1">All</a>
+  {% for p in platforms %}
+    <a href="{{ url_for('jobs', platform=p) }}"
+       class="btn btn-sm {{ 'btn-primary' if active_platform == p else 'btn-outline-secondary' }} me-1 mb-1">{{ p }}</a>
+  {% endfor %}
+</div>
+
+<div class="mb-4">
+  <span class="text-muted small">Your skills: </span>
+  {% for skill in user_skills %}
+    <span class="badge rounded-pill text-bg-secondary me-1">{{ skill }}</span>
+  {% endfor %}
+  <a href="{{ url_for('dashboard') }}" class="small ms-2">edit</a>
+</div>
+
+{% if matched_jobs %}
+  <div class="row g-3">
+    {% for job in matched_jobs %}
+      <div class="col-12">
+        <div class="card job-card shadow-sm">
+          <div class="card-body">
+            <div class="d-flex justify-content-between flex-wrap">
+              <div>
+                <h5 class="card-title mb-1">{{ job.title }}</h5>
+                <h6 class="card-subtitle text-muted mb-2">{{ job.company }} · {{ job.location }}</h6>
+              </div>
+              <div class="text-end">
+                <span class="badge platform-badge mb-1">{{ job.platform }}</span>
+                <div class="match-score {{ 'text-success' if job.match_percent >= 60 else ('text-warning' if job.match_percent >= 30 else 'text-danger') }}">
+                  {{ job.match_percent }}% match
+                </div>
+              </div>
+            </div>
+
+            <p class="card-text small">{{ job.description }}</p>
+
+            <div class="progress mb-2" style="height: 6px;">
+              <div class="progress-bar {{ 'bg-success' if job.match_percent >= 60 else ('bg-warning' if job.match_percent >= 30 else 'bg-danger') }}"
+                   role="progressbar" style="width: {{ job.match_percent }}%;"></div>
+            </div>
+
+            <div class="mb-2">
+              {% for s in job.matched_skills %}
+                <span class="badge text-bg-success-subtle border border-success-subtle text-success-emphasis me-1 mb-1">✓ {{ s }}</span>
+              {% endfor %}
+              {% for s in job.missing_skills %}
+                <span class="badge text-bg-light border me-1 mb-1 text-muted">{{ s }}</span>
+              {% endfor %}
+            </div>
+
+            <a href="{{ job.url }}" target="_blank" rel="noopener" class="btn btn-sm btn-primary">Apply on {{ job.platform }} →</a>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+{% else %}
+  <div class="alert alert-info">No matching jobs found for this filter. Try a different platform or add more skills to your profile.</div>
+{% endif %}
+
+{% endblock %}

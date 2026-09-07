@@ -1,0 +1,21 @@
+[
+  "python", "java", "c++", "c#", "javascript", "typescript", "go", "rust", "php", "ruby", "swift", "kotlin",
+  "html", "css", "sass", "tailwind", "bootstrap",
+  "react", "angular", "vue", "next.js", "redux", "jquery",
+  "node.js", "express", "django", "flask", "fastapi", "spring boot", ".net", "laravel",
+  "sql", "mysql", "postgresql", "mongodb", "sqlite", "redis", "oracle", "firebase", "dynamodb",
+  "aws", "azure", "gcp", "docker", "kubernetes", "terraform", "jenkins", "ci/cd", "devops", "linux",
+  "git", "github", "gitlab", "bitbucket",
+  "machine learning", "deep learning", "data science", "pandas", "numpy", "scikit-learn",
+  "tensorflow", "pytorch", "nlp", "computer vision", "opencv", "data analysis", "data visualization",
+  "tableau", "power bi", "excel", "spark", "hadoop", "kafka", "airflow", "etl",
+  "rest api", "graphql", "microservices", "system design", "agile", "scrum", "jira",
+  "android", "ios", "flutter", "react native",
+  "cybersecurity", "networking", "penetration testing", "ethical hacking",
+  "ui/ux", "figma", "adobe xd", "photoshop", "illustrator",
+  "seo", "digital marketing", "content writing", "social media marketing",
+  "sales", "business development", "crm", "salesforce",
+  "project management", "product management", "communication", "leadership", "team management",
+  "financial analysis", "accounting", "sap", "erp",
+  "testing", "selenium", "manual testing", "automation testing", "unit testing"
+]
