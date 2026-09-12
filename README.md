@@ -55,6 +55,7 @@ python app.py
 ```
 
 Open **http://127.0.0.1:5000** in your browser.
+RENDER_LINK->https://job-portal-easy-to-use.onrender.com/
 
 The SQLite database (`job_portal.db`) is created automatically on first run.
 
