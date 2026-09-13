@@ -76,11 +76,6 @@ def index():
 
 @app.route("/register", methods=["GET", "POST"])
 def register():
-    if user is None:
-      session.clear()
-      flash("Your session has expired. Please log in again.", "warning")
-      return redirect(url_for("login")) 
-
     if request.method == "POST":
         name = request.form.get("name", "").strip()
         email = request.form.get("email", "").strip().lower()
@@ -145,6 +140,10 @@ def logout():
 def dashboard():
     user = current_user()
 
+    if user is None:
+        session.clear()
+        flash("Your session has expired. Please login in again.", "warning")
+        return redirect(url_for("login"))
     if request.method == "POST":
         file = request.files.get("resume")
         if not file or file.filename == "":
