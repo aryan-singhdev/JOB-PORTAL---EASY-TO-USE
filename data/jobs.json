@@ -1,164 +1,53 @@
 [
   {
-    "id": 4447137369,
-    "title": "Software Engineer, PhD, Early Career, 2026",
-    "company": "Google",
+    "id": "1",
+    "title": "Senior Software Engineer",
+    "company": "Caterpillar Inc.",
     "location": "Bengaluru, Karnataka, India",
     "platform": "LinkedIn",
-    "url": "https://in.linkedin.com/jobs/view/software-engineer-phd-early-career-2026-at-google-4447137369",
+    "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-at-caterpillar-inc-4467974435",
     "skills": [
-      "C++",
       "Python",
-      "Java",
-      "Distributed Systems",
-      "Algorithms"
-    ],
-    "description": "Software engineering role focused on large-scale distributed systems, AI/ML, networking, data storage, or security."
-  },
-  {
-    "id": 4438802094,
-    "title": "Software Engineer (Application Engineering) - Lead",
-    "company": "D. E. Shaw India Private Limited",
-    "location": "Hyderabad, Telangana, India",
-    "platform": "LinkedIn",
-    "url": "https://in.linkedin.com/jobs/view/software-engineer-application-engineering-lead-at-d-e-shaw-india-private-limited-4438802094",
-    "skills": [
-      "Software Development",
-      "Application Engineering",
-      "Systems",
-      "Stakeholder Management"
-    ],
-    "description": "Application Engineering role in the Systems group based in Hyderabad."
-  },
-  {
-    "id": 4460009998,
-    "title": "Accelerate FTC 2026 Batch (6Months) / Pride Pathways (LGBTQ+ Talent Programme)",
-    "company": "NatWest Group",
-    "location": "Gurugram, Haryana, India",
-    "platform": "LinkedIn",
-    "url": "https://in.linkedin.com/jobs/view/accelerate-ftc-2026-batch-6months-pride-pathways-lgbtq%2B-talent-programme-at-natwest-group-4460009998",
-    "skills": [
-      "Software Engineering",
-      "Secure Systems",
-      "High Performance Systems"
-    ],
-    "description": "Software Engineer opportunity involving engineering and maintaining customer-centric, high-performance and secure solutions."
-  },
-  {
-    "id": 4465635419,
-    "title": "Software Engineer",
-    "company": "mea",
-    "location": "Bengaluru, Karnataka, India",
-    "platform": "LinkedIn",
-    "url": "https://in.linkedin.com/jobs/view/software-engineer-at-mea-4465635419",
-    "skills": [
-      "Software Engineering",
       "AI",
-      "Python",
-      "Knowledge Graphs"
+      "LLM",
+      "RAG",
+      "Software Engineering"
     ],
-    "description": "Software engineering role at an insurance technology company building AI and knowledge-graph based automation."
+    "description": "Senior software engineering role involving AI-enabled enterprise applications, scalable systems and modern engineering practices."
   },
   {
-    "id": 4464323117,
-    "title": "Software Engineer: Silicon One (C++/Networking Protocols) - 4+ Years",
-    "company": "Cisco",
+    "id": "2",
+    "title": "Software Engineer - Fullstack",
+    "company": "LinkedIn",
     "location": "Bengaluru, Karnataka, India",
     "platform": "LinkedIn",
-    "url": "https://in.linkedin.com/jobs/view/software-engineer-silicon-one-c%2B%2B-networking-protocols-4%2B-years-at-cisco-4464323117",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-fullstack-at-linkedin-4467082831",
     "skills": [
-      "C++",
-      "Networking Protocols",
-      "Linux",
-      "Software Engineering"
-    ],
-    "description": "Software engineering role on Cisco Silicon One networking software and customer engineering."
-  },
-  {
-    "id": 4458974555,
-    "title": "Software Engineer, AVP",
-    "company": "DevHub",
-    "location": "Gurugram, Haryana, India",
-    "platform": "LinkedIn",
-    "url": "https://in.linkedin.com/jobs/view/software-engineer-avp-at-devhub-4458974555",
-    "skills": [
+      "Full Stack",
+      "JavaScript",
       "Software Engineering",
-      "Digital Engineering",
-      "Secure Systems"
+      "Web Development"
     ],
-    "description": "Software Engineer role associated with NatWest Digital X engineering work."
+    "description": "Full-stack software engineering role at LinkedIn."
   },
   {
-    "id": 4453880019,
-    "title": "Software Engineer",
-    "company": "Baazi Games",
-    "location": "New Delhi, Delhi, India",
-    "platform": "LinkedIn",
-    "url": "https://in.linkedin.com/jobs/view/software-engineer-at-baazi-games-4453880019",
-    "skills": [
-      "Node.js",
-      "Backend Development",
-      "Software Engineering"
-    ],
-    "description": "Software engineering role involving scalable backend applications and high-performance systems."
-  },
-  {
-    "id": 4455888448,
-    "title": "Software Engineer - Salesforce Job",
-    "company": "YASH Technologies",
-    "location": "Bangalore, Karnataka, India",
-    "platform": "LinkedIn",
-    "url": "https://in.linkedin.com/jobs/view/software-engineer-salesforce-job-at-yash-technologies-middle-east-4455888448",
-    "skills": [
-      "Salesforce",
-      "Software Engineering",
-      "CRM"
-    ],
-    "description": "Software Engineer role focused on Salesforce technology."
-  },
-  {
-    "id": 4455067562,
-    "title": "Sr. Software Engineer - Python Job",
+    "id": "3",
+    "title": "Sr. Software Engineer - Databricks",
     "company": "YASH Technologies",
     "location": "Pune, Maharashtra, India",
     "platform": "LinkedIn",
-    "url": "https://in.linkedin.com/jobs/view/sr-software-engineer-python-job-at-yash-technologies-middle-east-4455067562",
+    "url": "https://in.linkedin.com/jobs/view/sr-software-engineer-databricks-job-at-yash-technologies-middle-east-4464259735",
     "skills": [
+      "Databricks",
+      "Software Engineering",
+      "Data Engineering",
       "Python",
-      "Software Engineering"
+      "SQL"
     ],
-    "description": "Senior software engineering role focused on Python development."
+    "description": "Senior software engineering role focused on Databricks and data technologies."
   },
   {
-    "id": 4463940209,
-    "title": "Sr. Software Engineer - SQL Job",
-    "company": "YASH Technologies",
-    "location": "Pune, Maharashtra, India",
-    "platform": "LinkedIn",
-    "url": "https://in.linkedin.com/jobs/view/sr-software-engineer-sql-job-at-yash-technologies-middle-east-4463940209",
-    "skills": [
-      "SQL",
-      "Software Engineering",
-      "Databases"
-    ],
-    "description": "Senior software engineering role focused on SQL and database technologies."
-  },
-  {
-    "id": 4426387230,
-    "title": "Software Engineer (Network) - Senior Member",
-    "company": "D. E. Shaw India Private Limited",
-    "location": "Hyderabad, Telangana, India",
-    "platform": "LinkedIn",
-    "url": "https://in.linkedin.com/jobs/view/software-engineer-network-senior-member-at-d-e-shaw-india-private-limited-4426387230",
-    "skills": [
-      "Networking",
-      "Software Engineering",
-      "Systems"
-    ],
-    "description": "Senior software engineering role focused on network engineering and systems."
-  },
-  {
-    "id": 4463317503,
+    "id": "4",
     "title": "Software Engineer",
     "company": "Caterpillar Inc.",
     "location": "Chennai, Tamil Nadu, India",
@@ -166,282 +55,410 @@
     "url": "https://in.linkedin.com/jobs/view/software-engineer-at-caterpillar-inc-4463317503",
     "skills": [
       "Software Engineering",
+      "APIs",
       "Distributed Systems",
       "Docker",
       "Kubernetes"
     ],
-    "description": "Software engineering role involving platform services, distributed systems and modern cloud technologies."
+    "description": "Software engineering role involving platform and service-layer development."
   },
   {
-    "id": 4467730019,
-    "title": "Frontend Developer",
-    "company": "JobCrexa",
-    "location": "New Delhi, Delhi, India",
+    "id": "5",
+    "title": "Senior Software Engineer - SQL",
+    "company": "Esyasoft Technologies Private Limited",
+    "location": "Bengaluru, Karnataka, India",
     "platform": "LinkedIn",
-    "url": "https://in.linkedin.com/jobs/view/frontend-developer-at-jobcrexa-4467730019",
+    "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-sql-at-esyasoft-technologies-private-limited-4462943152",
     "skills": [
-      "Frontend Development",
-      "HTML",
-      "CSS",
-      "JavaScript"
+      "SQL",
+      "MS SQL Server",
+      "T-SQL",
+      "Database Design"
     ],
-    "description": "Entry-level frontend developer role focused on responsive and interactive web applications."
+    "description": "Senior SQL engineering role focused on SQL Server, stored procedures, tuning and database development."
   },
   {
-    "id": 4464434002,
-    "title": "Frontend Developer",
-    "company": "FetchJobs.co",
-    "location": "India",
+    "id": "6",
+    "title": "Software Engineer",
+    "company": "Wells Fargo",
+    "location": "Hyderabad, Telangana, India",
     "platform": "LinkedIn",
-    "url": "https://in.linkedin.com/jobs/view/frontend-developer-at-fetchjobs-co-4464434002",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-at-wells-fargo-4465647451",
     "skills": [
-      "Frontend Development",
-      "JavaScript",
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "MongoDB",
+      "SQL"
+    ],
+    "description": "Software engineering role involving cloud-native applications, microservices and AI systems."
+  },
+  {
+    "id": "7",
+    "title": "WoW - Software Engineer, AVP",
+    "company": "National Westminster Bank PLC",
+    "location": "Bengaluru, Karnataka, India",
+    "platform": "Indeed",
+    "url": "https://in.indeed.com/viewjob?jk=db5122e6e31b00bc",
+    "skills": [
+      "Software Engineering",
+      "Digital",
+      "APIs",
+      "Cloud"
+    ],
+    "description": "Software Engineer role with NatWest Digital X in Bengaluru."
+  },
+  {
+    "id": "8",
+    "title": "Gen AI - Senior Engineer",
+    "company": "Iris Software",
+    "location": "Noida, Uttar Pradesh, India",
+    "platform": "Indeed",
+    "url": "https://in.indeed.com/viewjob?jk=d58e88ce3d74282a",
+    "skills": [
+      "Generative AI",
+      "AI",
+      "Python",
+      "Software Engineering"
+    ],
+    "description": "Senior engineering role focused on generative AI technologies."
+  },
+  {
+    "id": "9",
+    "title": "AWS Data - Senior Engineer",
+    "company": "Iris Software",
+    "location": "Noida, Uttar Pradesh, India",
+    "platform": "Indeed",
+    "url": "https://in.indeed.com/viewjob?jk=29349b7828b221a2",
+    "skills": [
+      "AWS",
+      "Data Engineering",
+      "Cloud",
+      "Software Engineering"
+    ],
+    "description": "Senior data engineering role involving AWS and enterprise technology."
+  },
+  {
+    "id": "10",
+    "title": "Java FullStack - Senior Engineer",
+    "company": "Iris Software",
+    "location": "Noida, Uttar Pradesh, India",
+    "platform": "Indeed",
+    "url": "https://in.indeed.com/viewjob?jk=6fc181d7a4fb0642",
+    "skills": [
+      "Java",
+      "Full Stack",
+      "Spring",
       "Web Development"
     ],
-    "description": "Frontend developer role focused on building responsive and interactive web applications."
+    "description": "Senior full-stack engineering role using Java technologies."
   },
   {
-    "id": 4384437573,
-    "title": "Jr. Front End Developer",
-    "company": "Black Box",
-    "location": "Mumbai, Maharashtra, India",
-    "platform": "LinkedIn",
-    "url": "https://in.linkedin.com/jobs/view/jr-front-end-developer-at-black-box-4384437573",
+    "id": "11",
+    "title": "ETL Data - Senior Engineer",
+    "company": "Iris Software",
+    "location": "Noida, Uttar Pradesh, India",
+    "platform": "Indeed",
+    "url": "https://in.indeed.com/viewjob?jk=b1424385d421f78c",
     "skills": [
-      "Frontend Development",
-      "HTML",
-      "CSS",
-      "JavaScript"
-    ],
-    "description": "Junior front-end development role in Mumbai."
-  },
-  {
-    "id": 4452425452,
-    "title": "Guidewire Policy Center Developer - Remote - GO/JC/4368/2026",
-    "company": "Golden Opportunities",
-    "location": "Pune/Bangalore, India",
-    "platform": "LinkedIn",
-    "url": "https://in.linkedin.com/jobs/view/guidewire-policy-center-developer-remote-go-jc-4368-2026-at-golden-opportunities-4452425452",
-    "skills": [
-      "Guidewire",
-      "PolicyCenter",
-      "Cloud",
-      "Software Development"
-    ],
-    "description": "Remote Guidewire PolicyCenter developer role based in Bangalore or Pune."
-  },
-  {
-    "id": 4334489041,
-    "title": "Front End Developer",
-    "company": "ktree.com",
-    "location": "Hyderabad, Telangana, India",
-    "platform": "LinkedIn",
-    "url": "https://in.linkedin.com/jobs/view/front-end-developer-at-ktree-com-4334489041",
-    "skills": [
-      "Frontend Development",
-      "Web Development",
-      "JavaScript"
-    ],
-    "description": "Front-end developer role in Hyderabad."
-  },
-  {
-    "id": 4416075845,
-    "title": "Frontend Software Engineer | Compensation Up To 15LPA",
-    "company": "MethodTech",
-    "location": "Mumbai, Maharashtra, India",
-    "platform": "LinkedIn",
-    "url": "https://in.linkedin.com/jobs/view/frontend-software-engineer-compensation-up-to-15lpa-at-methodtech-4416075845",
-    "skills": [
-      "Frontend Development",
+      "ETL",
+      "Data Engineering",
+      "SQL",
       "Software Engineering"
     ],
-    "description": "Frontend software engineering role in Mumbai."
+    "description": "Senior ETL and data engineering role in Noida."
   },
   {
-    "id": 4459169995,
-    "title": "Backend Developer : 26-02514",
-    "company": "Akraya, Inc.",
+    "id": "12",
+    "title": "Wow Software Engineer",
+    "company": "National Westminster Bank PLC",
     "location": "Bengaluru, Karnataka, India",
-    "platform": "LinkedIn",
-    "url": "https://in.linkedin.com/jobs/view/backend-developer-26-02514-at-akraya-inc-4459169995",
+    "platform": "Indeed",
+    "url": "https://in.indeed.com/viewjob?jk=a5030f052275c407",
+    "skills": [
+      "Software Engineering",
+      "Cloud",
+      "APIs",
+      "Digital"
+    ],
+    "description": "Software Engineer role with NatWest Digital X in Bengaluru."
+  },
+  {
+    "id": "13",
+    "title": "Software Engineer Trainee",
+    "company": "Recruit CRM",
+    "location": "Work From Home",
+    "platform": "Internshala",
+    "url": "https://internshala.com/internship/detail/work-from-home-trainee-software-engineer-internship-at-recruit-crm1758023984",
+    "skills": [
+      "Software Development",
+      "Python",
+      "Web Development",
+      "Git"
+    ],
+    "description": "Work-from-home software engineering trainee internship."
+  },
+  {
+    "id": "14",
+    "title": "Full Stack Development Intern",
+    "company": "Agrim AI",
+    "location": "Work From Home",
+    "platform": "Internshala",
+    "url": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-agrimai1757982124",
+    "skills": [
+      "Full Stack",
+      "JavaScript",
+      "Web Development",
+      "AI"
+    ],
+    "description": "Work-from-home full-stack development internship with Agrim AI."
+  },
+  {
+    "id": "15",
+    "title": "Backend Development Intern",
+    "company": "Alemeno",
+    "location": "Work From Home",
+    "platform": "Internshala",
+    "url": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-alemeno1757151426",
+    "skills": [
+      "Backend Development",
+      "APIs",
+      "Python",
+      "Databases"
+    ],
+    "description": "Work-from-home backend development internship."
+  },
+  {
+    "id": "16",
+    "title": "ReactJS Development Intern",
+    "company": "Savant Consulting LLC",
+    "location": "Work From Home",
+    "platform": "Internshala",
+    "url": "https://internshala.com/internship/detail/work-from-home-reactjs-development-internship-at-savant-consulting-llc1757920090",
+    "skills": [
+      "ReactJS",
+      "JavaScript",
+      "Frontend",
+      "Web Development"
+    ],
+    "description": "Work-from-home ReactJS development internship."
+  },
+  {
+    "id": "17",
+    "title": "Flutter Development Intern",
+    "company": "International Institute of Data Science & Technology",
+    "location": "Mumbai, Maharashtra, India",
+    "platform": "Internshala",
+    "url": "https://internshala.com/internship/detail/flutter-development-internship-in-mumbai-at-international-institute-of-data-science-technology1758802185",
+    "skills": [
+      "Flutter",
+      "Dart",
+      "Mobile Development",
+      "Firebase"
+    ],
+    "description": "Flutter development internship in Mumbai."
+  },
+  {
+    "id": "18",
+    "title": "Java Development Trainee",
+    "company": "EvoNexis",
+    "location": "Work From Home",
+    "platform": "Internshala",
+    "url": "https://internshala.com/internship/detail/work-from-home-java-development-internship-at-evonexis1758949091",
     "skills": [
       "Java",
+      "Software Development",
+      "Programming",
+      "Git"
+    ],
+    "description": "Work-from-home Java development trainee internship."
+  },
+  {
+    "id": "19",
+    "title": "Remote Python Developer - 17852",
+    "company": "Turing",
+    "location": "Mumbai, India",
+    "platform": "Monster",
+    "url": "https://www.foundit.in/job/remote-python-developer-17852-turing-mumbai-35894156",
+    "skills": [
       "Python",
-      "Distributed Systems",
-      "Kafka",
-      "Microservices"
+      "Data Analysis",
+      "Jupyter",
+      "Software Development"
     ],
-    "description": "Backend developer role involving Java, Python, distributed systems, Kafka and microservices."
+    "description": "Remote Python developer opportunity listed on Foundit, the current Monster India platform."
   },
   {
-    "id": 4464979953,
-    "title": "DevOps Engineer",
-    "company": "Global Software Solutions Group",
+    "id": "20",
+    "title": "Python Developer",
+    "company": "Infosys Limited",
     "location": "Bengaluru, Karnataka, India",
-    "platform": "LinkedIn",
-    "url": "https://in.linkedin.com/jobs/view/devops-engineer-at-global-software-solutions-group-4464979953",
+    "platform": "Monster",
+    "url": "https://www.foundit.in/job/python-developer-infosys-limited-bengaluru-bangalore-35014003",
     "skills": [
-      "DevOps",
-      "CI/CD",
-      "Kubernetes",
-      "GitOps",
-      "Cloud"
+      "Python",
+      "Software Development",
+      "Architecture",
+      "IT"
     ],
-    "description": "DevOps role focused on automation, CI/CD, cloud infrastructure and Kubernetes/OpenShift."
+    "description": "Python Developer opportunity at Infosys."
   },
   {
-    "id": 4465559135,
-    "title": "DevOps Engineer",
-    "company": "Accenture in India",
-    "location": "Navi Mumbai, Maharashtra, India",
-    "platform": "LinkedIn",
-    "url": "https://in.linkedin.com/jobs/view/devops-engineer-at-accenture-in-india-4465559135",
+    "id": "21",
+    "title": "Python Developer",
+    "company": "Hire22.ai",
+    "location": "Delhi, India",
+    "platform": "Monster",
+    "url": "https://www.foundit.in/job/python-developer-hire22-ai-delhi-34877017",
     "skills": [
-      "DevOps",
-      "CI/CD",
-      "Cloud",
-      "Container Orchestration"
+      "Python",
+      "LLMs",
+      "Pandas",
+      "NumPy",
+      "AI/ML"
     ],
-    "description": "DevOps engineering role focused on development tools, infrastructure, CI/CD, cloud and security."
+    "description": "Python developer role involving LLMs and AI/ML integration."
   },
   {
-    "id": 4464951391,
-    "title": "DevOps Engineer, India",
-    "company": "AlgoSec",
-    "location": "New Delhi, Delhi, India",
-    "platform": "LinkedIn",
-    "url": "https://in.linkedin.com/jobs/view/devops-engineer-india-at-algosec-4464951391",
+    "id": "22",
+    "title": "Python Developer",
+    "company": "BMC Software",
+    "location": "Pune, India",
+    "platform": "Monster",
+    "url": "https://www.foundit.in/job/python-developer-bmc-software-pune-34826824",
     "skills": [
-      "DevOps",
-      "Cloud",
-      "Security",
-      "Infrastructure"
+      "Python",
+      "Software Development",
+      "Mainframe",
+      "Security"
     ],
-    "description": "DevOps Engineer role in AlgoSec's global R&D organization."
+    "description": "Fresher Python Developer opportunity at BMC Software."
   },
   {
-    "id": 4460541877,
-    "title": "Backend Developer",
-    "company": "ALTEN India",
-    "location": "Chennai, Tamil Nadu, India",
-    "platform": "LinkedIn",
-    "url": "https://in.linkedin.com/jobs/view/backend-developer-at-alten-india-4460541877",
+    "id": "23",
+    "title": "Hiring for Python Developer Role",
+    "company": "Robotics Technologies",
+    "location": "Ahmedabad / Bengaluru / Chennai, India",
+    "platform": "Monster",
+    "url": "https://www.foundit.in/job/hiring-for-python-developer-role-robotics-technologies-ahmedabad-34871472",
     "skills": [
-      "Node.js",
       "Python",
       "Django",
-      "Java",
-      "React",
-      "REST APIs"
+      "Flask",
+      "Web Development"
     ],
-    "description": "Entry-level backend development role involving APIs, services and data-processing components."
+    "description": "Python developer opportunity across multiple Indian locations."
   },
   {
-    "id": 4465464659,
-    "title": "Machine Learning Engineer (60LPA)",
-    "company": "Jumbo Consulting",
-    "location": "Bengaluru, Karnataka, India",
-    "platform": "LinkedIn",
-    "url": "https://in.linkedin.com/jobs/view/machine-learning-engineer-60lpa-at-jumbo-consulting-4465464659",
+    "id": "24",
+    "title": "Python Developer",
+    "company": "Bharat Business Innovations Pvt Ltd",
+    "location": "Remote / Delhi, India",
+    "platform": "Monster",
+    "url": "https://www.foundit.in/job/python-developer-bharat-business-innovations-pvt-ltd-delhi-34765200",
     "skills": [
       "Python",
-      "Machine Learning",
-      "Deep Learning",
-      "LLMs",
-      "MLflow"
+      "Docker",
+      "Git",
+      "Open Source",
+      "Scientific Libraries"
     ],
-    "description": "Machine learning engineering role focused on LLMs, deep learning, model evaluation and AI systems."
+    "description": "Python developer role involving open-source scientific Python repositories."
   },
   {
-    "id": "b7859737ef954abb",
-    "title": "Software Engineer (Success Engineering)",
-    "company": "Deltek, Inc.",
+    "id": "25",
+    "title": "Analyst - Data Scientist",
+    "company": "Alexion Pharmaceuticals",
     "location": "Bengaluru, Karnataka, India",
-    "platform": "Indeed",
-    "url": "https://in.indeed.com/viewjob?jk=b7859737ef954abb",
+    "platform": "Glassdoor",
+    "url": "https://www.glassdoor.co.in/job-listing/analyst-data-scientist-alexion-pharmaceuticals-JV_KO0%2C22_KE23%2C46.htm?jl=1010241938748",
+    "skills": [
+      "Data Science",
+      "Machine Learning",
+      "Python",
+      "Statistics",
+      "AI"
+    ],
+    "description": "Data Scientist role involving analytics, machine learning and AI models."
+  },
+  {
+    "id": "26",
+    "title": "Software Engineer, PhD, Early Career, 2026",
+    "company": "Google",
+    "location": "Hyderabad / Bengaluru, India",
+    "platform": "Glassdoor",
+    "url": "https://www.glassdoor.co.in/job-listing/software-engineer-phd-early-career-2026-google-JV_KO0%2C39_KE40%2C46.htm?jl=1010178668342",
     "skills": [
       "Software Engineering",
-      "Cloud",
-      "Containers",
-      "TDD"
-    ],
-    "description": "Software Engineer role focused on maintaining and scaling enterprise software using cloud technologies and containerization."
-  },
-  {
-    "id": "aedc30f97185bc72",
-    "title": "Full Stack Software Engineer",
-    "company": "Amgen",
-    "location": "Hyderabad, Telangana, India",
-    "platform": "Indeed",
-    "url": "https://in.indeed.com/viewjob?jk=aedc30f97185bc72",
-    "skills": [
-      "Full Stack",
-      "Cloud",
-      "Generative AI",
-      "Software Development"
-    ],
-    "description": "Full-stack software engineering role involving frontend, backend and cloud technologies."
-  },
-  {
-    "id": "96735b4479b13ea9",
-    "title": "Full Stack Software Engineer",
-    "company": "Amgen",
-    "location": "Hyderabad, Telangana, India",
-    "platform": "Indeed",
-    "url": "https://in.indeed.com/viewjob?jk=96735b4479b13ea9",
-    "skills": [
-      "Full Stack",
-      "Generative AI",
-      "Cloud",
-      "Software Development"
-    ],
-    "description": "Full-stack role involving rapid prototyping, cloud technology and generative AI."
-  },
-  {
-    "id": "580baa413ea981f1",
-    "title": "Sr. Associate Software Engineer",
-    "company": "Amgen",
-    "location": "Hyderabad, Telangana, India",
-    "platform": "Indeed",
-    "url": "https://in.indeed.com/viewjob?jk=580baa413ea981f1",
-    "skills": [
-      "Salesforce",
-      "MuleSoft",
-      "APIs",
-      "Software Engineering"
-    ],
-    "description": "Senior associate software engineering role involving Salesforce, MuleSoft and enterprise integrations."
-  },
-  {
-    "id": "335656a3895e4633",
-    "title": "Pncpl Software Engineer",
-    "company": "Deltek, Inc.",
-    "location": "Bengaluru, Karnataka, India",
-    "platform": "Indeed",
-    "url": "https://in.indeed.com/viewjob?jk=335656a3895e4633",
-    "skills": [
       "Python",
-      "Java",
-      "Node.js",
-      "AI",
+      "C++",
+      "AI/ML",
       "Distributed Systems"
     ],
-    "description": "Software engineering role focused on AI-powered distributed systems and enterprise software."
+    "description": "Google software engineering role for early-career PhD candidates."
   },
   {
-    "id": "9090f55a7d914f2b",
-    "title": "Specialist Software Engineer (Full Stack)",
+    "id": "27",
+    "title": "Python Developer - Data & AI",
+    "company": "Wipro",
+    "location": "Pune, Maharashtra, India",
+    "platform": "Glassdoor",
+    "url": "https://www.glassdoor.co.in/job-listing/python-developer-data-ai-wipro-JV_KO0%2C24_KE25%2C30.htm?jl=1010211926401",
+    "skills": [
+      "Python",
+      "Pandas",
+      "FastAPI",
+      "SQL",
+      "AI/LLM"
+    ],
+    "description": "Python development role focused on data and AI technologies."
+  },
+  {
+    "id": "28",
+    "title": "Frontend Developer",
+    "company": "Luxoft",
+    "location": "Bengaluru, Karnataka, India",
+    "platform": "Glassdoor",
+    "url": "https://www.glassdoor.co.in/job-listing/frontend-developer-luxoft-JV_IC2940587_KO0%2C18_KE19%2C25.htm?jl=1010164296588",
+    "skills": [
+      "Angular",
+      "Frontend",
+      "JavaScript",
+      "Git",
+      "Web Development"
+    ],
+    "description": "Frontend developer role at Luxoft in Bengaluru."
+  },
+  {
+    "id": "29",
+    "title": "Python Developer (CAE)_SA2116",
+    "company": "nCircle Tech",
+    "location": "Pune, Maharashtra, India",
+    "platform": "Glassdoor",
+    "url": "https://www.glassdoor.co.in/job-listing/python-developer-cae-sa2116-ncircle-tech-JV_IC2856202_KO0%2C27_KE28%2C40.htm?jl=1010250884686",
+    "skills": [
+      "Python",
+      "GitHub",
+      "MySQL",
+      "Django",
+      "Flask"
+    ],
+    "description": "Python developer role involving enterprise software, data workflows and web frameworks."
+  },
+  {
+    "id": "30",
+    "title": "Software Engineer",
     "company": "Amgen",
     "location": "Hyderabad, Telangana, India",
-    "platform": "Indeed",
-    "url": "https://in.indeed.com/viewjob?jk=9090f55a7d914f2b",
+    "platform": "Glassdoor",
+    "url": "https://www.glassdoor.co.in/job-listing/software-engineer-amgen-JV_IC2865319_KO0%2C17_KE18%2C23.htm?jl=1010239731425",
     "skills": [
-      "Full Stack",
-      "AI",
-      "Software Engineering",
+      "C#",
+      ".NET",
+      "Azure",
+      "REST APIs",
       "Cloud"
     ],
-    "description": "Specialist full-stack software engineering role within an applied AI organization."
+    "description": "Software Engineer role focused on automation solutions and cloud applications."
   }
 ]
