@@ -1,32 +1,447 @@
 [
-  {"id": 1, "title": "Python Backend Developer", "company": "Innotech Solutions", "location": "Bengaluru, IN", "platform": "LinkedIn", "url": "https://linkedin.com/jobs/view/1", "skills": ["python", "django", "flask", "rest api", "sql", "postgresql", "git"], "description": "Build and maintain scalable backend services using Python and Django/Flask."},
-  {"id": 2, "title": "Full Stack JavaScript Developer", "company": "Webify Labs", "location": "Remote", "platform": "Indeed", "url": "https://indeed.com/jobs/view/2", "skills": ["javascript", "react", "node.js", "express", "mongodb", "css", "html"], "description": "Develop end-to-end web applications with the MERN stack."},
-  {"id": 3, "title": "Data Scientist", "company": "DataWorks Analytics", "location": "Hyderabad, IN", "platform": "Naukri", "url": "https://naukri.com/jobs/view/3", "skills": ["python", "pandas", "numpy", "scikit-learn", "machine learning", "data analysis", "sql"], "description": "Analyze large datasets and build predictive models for business insights."},
-  {"id": 4, "title": "Machine Learning Engineer", "company": "NeuralCore AI", "location": "Pune, IN", "platform": "Glassdoor", "url": "https://glassdoor.com/jobs/view/4", "skills": ["python", "tensorflow", "pytorch", "machine learning", "deep learning", "docker", "aws"], "description": "Design, train and deploy deep learning models into production."},
-  {"id": 5, "title": "Frontend Developer (React)", "company": "PixelCraft Studio", "location": "Mumbai, IN", "platform": "Monster", "url": "https://monster.com/jobs/view/5", "skills": ["javascript", "react", "redux", "css", "html", "typescript", "figma"], "description": "Craft pixel-perfect, responsive user interfaces using React."},
-  {"id": 6, "title": "DevOps Engineer", "company": "CloudNine Systems", "location": "Remote", "platform": "LinkedIn", "url": "https://linkedin.com/jobs/view/6", "skills": ["docker", "kubernetes", "aws", "terraform", "jenkins", "ci/cd", "linux"], "description": "Automate deployment pipelines and manage cloud infrastructure."},
-  {"id": 7, "title": "Java Backend Developer", "company": "Fintech Global", "location": "Gurugram, IN", "platform": "Naukri", "url": "https://naukri.com/jobs/view/7", "skills": ["java", "spring boot", "sql", "mysql", "microservices", "rest api", "git"], "description": "Develop secure and high performance backend systems for fintech products."},
-  {"id": 8, "title": "Android Developer", "company": "Appify Mobile", "location": "Bengaluru, IN", "platform": "Indeed", "url": "https://indeed.com/jobs/view/8", "skills": ["kotlin", "java", "android", "rest api", "git", "sqlite"], "description": "Build and maintain native Android applications."},
-  {"id": 9, "title": "iOS Developer", "company": "Appify Mobile", "location": "Bengaluru, IN", "platform": "Indeed", "url": "https://indeed.com/jobs/view/9", "skills": ["swift", "ios", "rest api", "git"], "description": "Design and develop native iOS applications."},
-  {"id": 10, "title": "Data Engineer", "company": "StreamLine Data", "location": "Chennai, IN", "platform": "Glassdoor", "url": "https://glassdoor.com/jobs/view/10", "skills": ["python", "spark", "hadoop", "kafka", "airflow", "sql", "etl", "aws"], "description": "Build robust data pipelines and ETL workflows at scale."},
-  {"id": 11, "title": "UI/UX Designer", "company": "Designify Studio", "location": "Remote", "platform": "LinkedIn", "url": "https://linkedin.com/jobs/view/11", "skills": ["ui/ux", "figma", "adobe xd", "photoshop", "html", "css"], "description": "Create intuitive and delightful user experiences for web and mobile apps."},
-  {"id": 12, "title": "QA Automation Engineer", "company": "TestPro Inc", "location": "Noida, IN", "platform": "Naukri", "url": "https://naukri.com/jobs/view/12", "skills": ["selenium", "automation testing", "python", "manual testing", "git", "agile"], "description": "Design and execute automated test suites to ensure product quality."},
-  {"id": 13, "title": "Cloud Solutions Architect", "company": "SkyNet Cloud", "location": "Remote", "platform": "Monster", "url": "https://monster.com/jobs/view/13", "skills": ["aws", "azure", "gcp", "docker", "kubernetes", "terraform", "system design"], "description": "Architect scalable and secure cloud-native solutions for enterprise clients."},
-  {"id": 14, "title": "Cybersecurity Analyst", "company": "SecureNet Corp", "location": "Delhi, IN", "platform": "Glassdoor", "url": "https://glassdoor.com/jobs/view/14", "skills": ["cybersecurity", "networking", "penetration testing", "ethical hacking", "linux"], "description": "Monitor, detect and respond to security threats across the organization."},
-  {"id": 15, "title": "Digital Marketing Specialist", "company": "MarketBoost", "location": "Remote", "platform": "Indeed", "url": "https://indeed.com/jobs/view/15", "skills": ["seo", "digital marketing", "social media marketing", "content writing", "excel"], "description": "Plan and execute digital marketing campaigns to drive growth."},
-  {"id": 16, "title": "Business Analyst", "company": "Insight Consulting", "location": "Mumbai, IN", "platform": "LinkedIn", "url": "https://linkedin.com/jobs/view/16", "skills": ["excel", "sql", "data analysis", "tableau", "power bi", "communication"], "description": "Translate business requirements into actionable data insights."},
-  {"id": 17, "title": "Product Manager", "company": "Innotech Solutions", "location": "Bengaluru, IN", "platform": "Naukri", "url": "https://naukri.com/jobs/view/17", "skills": ["product management", "agile", "scrum", "jira", "communication", "leadership"], "description": "Own the product roadmap and coordinate cross-functional teams."},
-  {"id": 18, "title": "PHP Developer", "company": "WebNest Technologies", "location": "Jaipur, IN", "platform": "Monster", "url": "https://monster.com/jobs/view/18", "skills": ["php", "laravel", "mysql", "javascript", "html", "css"], "description": "Maintain and enhance PHP-based web applications."},
-  {"id": 19, "title": "React Native Developer", "company": "MobileFirst Labs", "location": "Remote", "platform": "LinkedIn", "url": "https://linkedin.com/jobs/view/19", "skills": ["react native", "javascript", "react", "rest api", "git"], "description": "Build cross platform mobile apps using React Native."},
-  {"id": 20, "title": "Salesforce Developer", "company": "CRM Dynamics", "location": "Pune, IN", "platform": "Naukri", "url": "https://naukri.com/jobs/view/20", "skills": ["salesforce", "crm", "sql", "javascript"], "description": "Customize and extend Salesforce CRM solutions for enterprise clients."},
-  {"id": 21, "title": "Site Reliability Engineer", "company": "Uptime Systems", "location": "Remote", "platform": "Glassdoor", "url": "https://glassdoor.com/jobs/view/21", "skills": ["linux", "kubernetes", "docker", "aws", "ci/cd", "python"], "description": "Ensure high availability and performance of production systems."},
-  {"id": 22, "title": "NLP Engineer", "company": "LinguaAI", "location": "Remote", "platform": "LinkedIn", "url": "https://linkedin.com/jobs/view/22", "skills": ["python", "nlp", "machine learning", "pytorch", "deep learning"], "description": "Build state-of-the-art natural language processing systems."},
-  {"id": 23, "title": "Financial Analyst", "company": "Capital Partners", "location": "Mumbai, IN", "platform": "Indeed", "url": "https://indeed.com/jobs/view/23", "skills": ["financial analysis", "excel", "accounting", "sap", "communication"], "description": "Perform financial modeling and reporting for investment decisions."},
-  {"id": 24, "title": ".NET Developer", "company": "Enterprise Soft", "location": "Gurugram, IN", "platform": "Monster", "url": "https://monster.com/jobs/view/24", "skills": ["c#", ".net", "sql", "azure", "rest api"], "description": "Develop enterprise applications using the .NET framework."},
-  {"id": 25, "title": "Computer Vision Engineer", "company": "VisionaryAI", "location": "Bengaluru, IN", "platform": "Glassdoor", "url": "https://glassdoor.com/jobs/view/25", "skills": ["python", "opencv", "computer vision", "deep learning", "tensorflow"], "description": "Develop computer vision algorithms for real-time applications."},
-  {"id": 26, "title": "Content Writer", "company": "WordCraft Media", "location": "Remote", "platform": "Indeed", "url": "https://indeed.com/jobs/view/26", "skills": ["content writing", "seo", "communication"], "description": "Write engaging content for blogs, websites and marketing campaigns."},
-  {"id": 27, "title": "Junior Python Developer", "company": "StartUp Hub", "location": "Remote", "platform": "LinkedIn", "url": "https://linkedin.com/jobs/view/27", "skills": ["python", "flask", "git", "sql"], "description": "Great opportunity for freshers to work on real-world Python projects."},
-  {"id": 28, "title": "Sales Executive", "company": "GrowFast Corp", "location": "Delhi, IN", "platform": "Naukri", "url": "https://naukri.com/jobs/view/28", "skills": ["sales", "business development", "communication", "crm"], "description": "Drive revenue growth by acquiring and managing client relationships."},
-  {"id": 29, "title": "Go Backend Engineer", "company": "ScaleUp Systems", "location": "Remote", "platform": "Glassdoor", "url": "https://glassdoor.com/jobs/view/29", "skills": ["go", "microservices", "docker", "kubernetes", "sql", "rest api"], "description": "Build high-performance backend microservices in Go."},
-  {"id": 30, "title": "Flutter Developer", "company": "AppVenture", "location": "Remote", "platform": "Monster", "url": "https://monster.com/jobs/view/30", "skills": ["flutter", "dart", "rest api", "firebase", "git"], "description": "Build beautiful cross-platform mobile apps with Flutter."}
+  {
+    "id": 4447137369,
+    "title": "Software Engineer, PhD, Early Career, 2026",
+    "company": "Google",
+    "location": "Bengaluru, Karnataka, India",
+    "platform": "LinkedIn",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-phd-early-career-2026-at-google-4447137369",
+    "skills": [
+      "C++",
+      "Python",
+      "Java",
+      "Distributed Systems",
+      "Algorithms"
+    ],
+    "description": "Software engineering role focused on large-scale distributed systems, AI/ML, networking, data storage, or security."
+  },
+  {
+    "id": 4438802094,
+    "title": "Software Engineer (Application Engineering) - Lead",
+    "company": "D. E. Shaw India Private Limited",
+    "location": "Hyderabad, Telangana, India",
+    "platform": "LinkedIn",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-application-engineering-lead-at-d-e-shaw-india-private-limited-4438802094",
+    "skills": [
+      "Software Development",
+      "Application Engineering",
+      "Systems",
+      "Stakeholder Management"
+    ],
+    "description": "Application Engineering role in the Systems group based in Hyderabad."
+  },
+  {
+    "id": 4460009998,
+    "title": "Accelerate FTC 2026 Batch (6Months) / Pride Pathways (LGBTQ+ Talent Programme)",
+    "company": "NatWest Group",
+    "location": "Gurugram, Haryana, India",
+    "platform": "LinkedIn",
+    "url": "https://in.linkedin.com/jobs/view/accelerate-ftc-2026-batch-6months-pride-pathways-lgbtq%2B-talent-programme-at-natwest-group-4460009998",
+    "skills": [
+      "Software Engineering",
+      "Secure Systems",
+      "High Performance Systems"
+    ],
+    "description": "Software Engineer opportunity involving engineering and maintaining customer-centric, high-performance and secure solutions."
+  },
+  {
+    "id": 4465635419,
+    "title": "Software Engineer",
+    "company": "mea",
+    "location": "Bengaluru, Karnataka, India",
+    "platform": "LinkedIn",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-at-mea-4465635419",
+    "skills": [
+      "Software Engineering",
+      "AI",
+      "Python",
+      "Knowledge Graphs"
+    ],
+    "description": "Software engineering role at an insurance technology company building AI and knowledge-graph based automation."
+  },
+  {
+    "id": 4464323117,
+    "title": "Software Engineer: Silicon One (C++/Networking Protocols) - 4+ Years",
+    "company": "Cisco",
+    "location": "Bengaluru, Karnataka, India",
+    "platform": "LinkedIn",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-silicon-one-c%2B%2B-networking-protocols-4%2B-years-at-cisco-4464323117",
+    "skills": [
+      "C++",
+      "Networking Protocols",
+      "Linux",
+      "Software Engineering"
+    ],
+    "description": "Software engineering role on Cisco Silicon One networking software and customer engineering."
+  },
+  {
+    "id": 4458974555,
+    "title": "Software Engineer, AVP",
+    "company": "DevHub",
+    "location": "Gurugram, Haryana, India",
+    "platform": "LinkedIn",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-avp-at-devhub-4458974555",
+    "skills": [
+      "Software Engineering",
+      "Digital Engineering",
+      "Secure Systems"
+    ],
+    "description": "Software Engineer role associated with NatWest Digital X engineering work."
+  },
+  {
+    "id": 4453880019,
+    "title": "Software Engineer",
+    "company": "Baazi Games",
+    "location": "New Delhi, Delhi, India",
+    "platform": "LinkedIn",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-at-baazi-games-4453880019",
+    "skills": [
+      "Node.js",
+      "Backend Development",
+      "Software Engineering"
+    ],
+    "description": "Software engineering role involving scalable backend applications and high-performance systems."
+  },
+  {
+    "id": 4455888448,
+    "title": "Software Engineer - Salesforce Job",
+    "company": "YASH Technologies",
+    "location": "Bangalore, Karnataka, India",
+    "platform": "LinkedIn",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-salesforce-job-at-yash-technologies-middle-east-4455888448",
+    "skills": [
+      "Salesforce",
+      "Software Engineering",
+      "CRM"
+    ],
+    "description": "Software Engineer role focused on Salesforce technology."
+  },
+  {
+    "id": 4455067562,
+    "title": "Sr. Software Engineer - Python Job",
+    "company": "YASH Technologies",
+    "location": "Pune, Maharashtra, India",
+    "platform": "LinkedIn",
+    "url": "https://in.linkedin.com/jobs/view/sr-software-engineer-python-job-at-yash-technologies-middle-east-4455067562",
+    "skills": [
+      "Python",
+      "Software Engineering"
+    ],
+    "description": "Senior software engineering role focused on Python development."
+  },
+  {
+    "id": 4463940209,
+    "title": "Sr. Software Engineer - SQL Job",
+    "company": "YASH Technologies",
+    "location": "Pune, Maharashtra, India",
+    "platform": "LinkedIn",
+    "url": "https://in.linkedin.com/jobs/view/sr-software-engineer-sql-job-at-yash-technologies-middle-east-4463940209",
+    "skills": [
+      "SQL",
+      "Software Engineering",
+      "Databases"
+    ],
+    "description": "Senior software engineering role focused on SQL and database technologies."
+  },
+  {
+    "id": 4426387230,
+    "title": "Software Engineer (Network) - Senior Member",
+    "company": "D. E. Shaw India Private Limited",
+    "location": "Hyderabad, Telangana, India",
+    "platform": "LinkedIn",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-network-senior-member-at-d-e-shaw-india-private-limited-4426387230",
+    "skills": [
+      "Networking",
+      "Software Engineering",
+      "Systems"
+    ],
+    "description": "Senior software engineering role focused on network engineering and systems."
+  },
+  {
+    "id": 4463317503,
+    "title": "Software Engineer",
+    "company": "Caterpillar Inc.",
+    "location": "Chennai, Tamil Nadu, India",
+    "platform": "LinkedIn",
+    "url": "https://in.linkedin.com/jobs/view/software-engineer-at-caterpillar-inc-4463317503",
+    "skills": [
+      "Software Engineering",
+      "Distributed Systems",
+      "Docker",
+      "Kubernetes"
+    ],
+    "description": "Software engineering role involving platform services, distributed systems and modern cloud technologies."
+  },
+  {
+    "id": 4467730019,
+    "title": "Frontend Developer",
+    "company": "JobCrexa",
+    "location": "New Delhi, Delhi, India",
+    "platform": "LinkedIn",
+    "url": "https://in.linkedin.com/jobs/view/frontend-developer-at-jobcrexa-4467730019",
+    "skills": [
+      "Frontend Development",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "description": "Entry-level frontend developer role focused on responsive and interactive web applications."
+  },
+  {
+    "id": 4464434002,
+    "title": "Frontend Developer",
+    "company": "FetchJobs.co",
+    "location": "India",
+    "platform": "LinkedIn",
+    "url": "https://in.linkedin.com/jobs/view/frontend-developer-at-fetchjobs-co-4464434002",
+    "skills": [
+      "Frontend Development",
+      "JavaScript",
+      "Web Development"
+    ],
+    "description": "Frontend developer role focused on building responsive and interactive web applications."
+  },
+  {
+    "id": 4384437573,
+    "title": "Jr. Front End Developer",
+    "company": "Black Box",
+    "location": "Mumbai, Maharashtra, India",
+    "platform": "LinkedIn",
+    "url": "https://in.linkedin.com/jobs/view/jr-front-end-developer-at-black-box-4384437573",
+    "skills": [
+      "Frontend Development",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "description": "Junior front-end development role in Mumbai."
+  },
+  {
+    "id": 4452425452,
+    "title": "Guidewire Policy Center Developer - Remote - GO/JC/4368/2026",
+    "company": "Golden Opportunities",
+    "location": "Pune/Bangalore, India",
+    "platform": "LinkedIn",
+    "url": "https://in.linkedin.com/jobs/view/guidewire-policy-center-developer-remote-go-jc-4368-2026-at-golden-opportunities-4452425452",
+    "skills": [
+      "Guidewire",
+      "PolicyCenter",
+      "Cloud",
+      "Software Development"
+    ],
+    "description": "Remote Guidewire PolicyCenter developer role based in Bangalore or Pune."
+  },
+  {
+    "id": 4334489041,
+    "title": "Front End Developer",
+    "company": "ktree.com",
+    "location": "Hyderabad, Telangana, India",
+    "platform": "LinkedIn",
+    "url": "https://in.linkedin.com/jobs/view/front-end-developer-at-ktree-com-4334489041",
+    "skills": [
+      "Frontend Development",
+      "Web Development",
+      "JavaScript"
+    ],
+    "description": "Front-end developer role in Hyderabad."
+  },
+  {
+    "id": 4416075845,
+    "title": "Frontend Software Engineer | Compensation Up To 15LPA",
+    "company": "MethodTech",
+    "location": "Mumbai, Maharashtra, India",
+    "platform": "LinkedIn",
+    "url": "https://in.linkedin.com/jobs/view/frontend-software-engineer-compensation-up-to-15lpa-at-methodtech-4416075845",
+    "skills": [
+      "Frontend Development",
+      "Software Engineering"
+    ],
+    "description": "Frontend software engineering role in Mumbai."
+  },
+  {
+    "id": 4459169995,
+    "title": "Backend Developer : 26-02514",
+    "company": "Akraya, Inc.",
+    "location": "Bengaluru, Karnataka, India",
+    "platform": "LinkedIn",
+    "url": "https://in.linkedin.com/jobs/view/backend-developer-26-02514-at-akraya-inc-4459169995",
+    "skills": [
+      "Java",
+      "Python",
+      "Distributed Systems",
+      "Kafka",
+      "Microservices"
+    ],
+    "description": "Backend developer role involving Java, Python, distributed systems, Kafka and microservices."
+  },
+  {
+    "id": 4464979953,
+    "title": "DevOps Engineer",
+    "company": "Global Software Solutions Group",
+    "location": "Bengaluru, Karnataka, India",
+    "platform": "LinkedIn",
+    "url": "https://in.linkedin.com/jobs/view/devops-engineer-at-global-software-solutions-group-4464979953",
+    "skills": [
+      "DevOps",
+      "CI/CD",
+      "Kubernetes",
+      "GitOps",
+      "Cloud"
+    ],
+    "description": "DevOps role focused on automation, CI/CD, cloud infrastructure and Kubernetes/OpenShift."
+  },
+  {
+    "id": 4465559135,
+    "title": "DevOps Engineer",
+    "company": "Accenture in India",
+    "location": "Navi Mumbai, Maharashtra, India",
+    "platform": "LinkedIn",
+    "url": "https://in.linkedin.com/jobs/view/devops-engineer-at-accenture-in-india-4465559135",
+    "skills": [
+      "DevOps",
+      "CI/CD",
+      "Cloud",
+      "Container Orchestration"
+    ],
+    "description": "DevOps engineering role focused on development tools, infrastructure, CI/CD, cloud and security."
+  },
+  {
+    "id": 4464951391,
+    "title": "DevOps Engineer, India",
+    "company": "AlgoSec",
+    "location": "New Delhi, Delhi, India",
+    "platform": "LinkedIn",
+    "url": "https://in.linkedin.com/jobs/view/devops-engineer-india-at-algosec-4464951391",
+    "skills": [
+      "DevOps",
+      "Cloud",
+      "Security",
+      "Infrastructure"
+    ],
+    "description": "DevOps Engineer role in AlgoSec's global R&D organization."
+  },
+  {
+    "id": 4460541877,
+    "title": "Backend Developer",
+    "company": "ALTEN India",
+    "location": "Chennai, Tamil Nadu, India",
+    "platform": "LinkedIn",
+    "url": "https://in.linkedin.com/jobs/view/backend-developer-at-alten-india-4460541877",
+    "skills": [
+      "Node.js",
+      "Python",
+      "Django",
+      "Java",
+      "React",
+      "REST APIs"
+    ],
+    "description": "Entry-level backend development role involving APIs, services and data-processing components."
+  },
+  {
+    "id": 4465464659,
+    "title": "Machine Learning Engineer (60LPA)",
+    "company": "Jumbo Consulting",
+    "location": "Bengaluru, Karnataka, India",
+    "platform": "LinkedIn",
+    "url": "https://in.linkedin.com/jobs/view/machine-learning-engineer-60lpa-at-jumbo-consulting-4465464659",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "LLMs",
+      "MLflow"
+    ],
+    "description": "Machine learning engineering role focused on LLMs, deep learning, model evaluation and AI systems."
+  },
+  {
+    "id": "b7859737ef954abb",
+    "title": "Software Engineer (Success Engineering)",
+    "company": "Deltek, Inc.",
+    "location": "Bengaluru, Karnataka, India",
+    "platform": "Indeed",
+    "url": "https://in.indeed.com/viewjob?jk=b7859737ef954abb",
+    "skills": [
+      "Software Engineering",
+      "Cloud",
+      "Containers",
+      "TDD"
+    ],
+    "description": "Software Engineer role focused on maintaining and scaling enterprise software using cloud technologies and containerization."
+  },
+  {
+    "id": "aedc30f97185bc72",
+    "title": "Full Stack Software Engineer",
+    "company": "Amgen",
+    "location": "Hyderabad, Telangana, India",
+    "platform": "Indeed",
+    "url": "https://in.indeed.com/viewjob?jk=aedc30f97185bc72",
+    "skills": [
+      "Full Stack",
+      "Cloud",
+      "Generative AI",
+      "Software Development"
+    ],
+    "description": "Full-stack software engineering role involving frontend, backend and cloud technologies."
+  },
+  {
+    "id": "96735b4479b13ea9",
+    "title": "Full Stack Software Engineer",
+    "company": "Amgen",
+    "location": "Hyderabad, Telangana, India",
+    "platform": "Indeed",
+    "url": "https://in.indeed.com/viewjob?jk=96735b4479b13ea9",
+    "skills": [
+      "Full Stack",
+      "Generative AI",
+      "Cloud",
+      "Software Development"
+    ],
+    "description": "Full-stack role involving rapid prototyping, cloud technology and generative AI."
+  },
+  {
+    "id": "580baa413ea981f1",
+    "title": "Sr. Associate Software Engineer",
+    "company": "Amgen",
+    "location": "Hyderabad, Telangana, India",
+    "platform": "Indeed",
+    "url": "https://in.indeed.com/viewjob?jk=580baa413ea981f1",
+    "skills": [
+      "Salesforce",
+      "MuleSoft",
+      "APIs",
+      "Software Engineering"
+    ],
+    "description": "Senior associate software engineering role involving Salesforce, MuleSoft and enterprise integrations."
+  },
+  {
+    "id": "335656a3895e4633",
+    "title": "Pncpl Software Engineer",
+    "company": "Deltek, Inc.",
+    "location": "Bengaluru, Karnataka, India",
+    "platform": "Indeed",
+    "url": "https://in.indeed.com/viewjob?jk=335656a3895e4633",
+    "skills": [
+      "Python",
+      "Java",
+      "Node.js",
+      "AI",
+      "Distributed Systems"
+    ],
+    "description": "Software engineering role focused on AI-powered distributed systems and enterprise software."
+  },
+  {
+    "id": "9090f55a7d914f2b",
+    "title": "Specialist Software Engineer (Full Stack)",
+    "company": "Amgen",
+    "location": "Hyderabad, Telangana, India",
+    "platform": "Indeed",
+    "url": "https://in.indeed.com/viewjob?jk=9090f55a7d914f2b",
+    "skills": [
+      "Full Stack",
+      "AI",
+      "Software Engineering",
+      "Cloud"
+    ],
+    "description": "Specialist full-stack software engineering role within an applied AI organization."
+  }
 ]
